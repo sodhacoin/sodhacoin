@@ -1,3 +1,3 @@
-FooCoin (FOO)
+Sodha Coin (SDC)
 
-Blah, blah, blah.
+Sodha Coin Beta.
